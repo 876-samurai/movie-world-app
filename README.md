@@ -2,6 +2,8 @@
 
 Movie World is a React-based web application that allows you to search for movies using the OMDB API and displays the search results in an organized and visually appealing manner. You can search for movies by their titles and get information about them, including the release year, poster, type, and title. This README will provide you with information on how to get started with the project and how to contribute. This project is great to use to undestand the basic concepts of React.
 
+![Alt text](<Screenshot 2023-10-19 at 10.47.53 PM.png>)
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
